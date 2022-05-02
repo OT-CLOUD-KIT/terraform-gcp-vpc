@@ -1,5 +1,4 @@
-# project_id = "bjbdevelopment"
-project_id               = "terraform-gcp-123"
+project_id = "bjbdevelopment"
 credentials_file_path    = "./service-account-credentials.json"
 region                   = "asia-southeast2"
 main_zone                = "asia-southeast2-a"
