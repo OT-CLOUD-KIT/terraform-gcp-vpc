@@ -1,0 +1,3 @@
+project_id          = "example-network-project"
+service_project_id  = "example-service-project"
+network_user_member = "serviceAccount:workload@example-service-project.iam.gserviceaccount.com"
